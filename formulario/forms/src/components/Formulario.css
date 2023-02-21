@@ -1,0 +1,11 @@
+.nome{
+    color: purple;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.form{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
